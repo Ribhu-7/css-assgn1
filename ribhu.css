@@ -1,0 +1,41 @@
+h1{
+    color: red;
+}
+h2{
+    color: #eb4034;
+    font-style: italic;
+}
+li{
+    padding: 10px;
+    color: brown;
+    font-weight: 500 ;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+
+}
+.item1{
+    background-color: yellow;
+    font-weight: 1000;
+}
+.item2{
+    text-decoration: underline;
+    font-style: italic;
+}
+.item3{
+    letter-spacing: 4px;
+    
+}
+
+p{
+    color: brown;
+    font-weight: 500 ;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+
+}
+.item4{
+    color: red;
+    background-color: yellow;
+    font-weight: 1000;
+    font-style: italic;
+    text-decoration: none;
+}
+
